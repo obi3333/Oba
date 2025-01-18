@@ -18,4 +18,3 @@ if exist "%SourcePath%" (
     echo Source file not found: %SourcePath%
 )
 
-pause
